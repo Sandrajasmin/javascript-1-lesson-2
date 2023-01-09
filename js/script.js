@@ -95,14 +95,6 @@ myDiv.style.fontSize = "5em"
 
 
 
-
-
-
-
-
-
-
-
 // 1. select the h1 and change the innerText
 
 const pageHeading = document.querySelector("h1");
